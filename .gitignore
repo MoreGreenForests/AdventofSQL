@@ -1,0 +1,20 @@
+# Visual Studio generated files
+*.suo
+*.pdb
+*.dll
+*.cache
+*.dtbcache.v2
+
+# Build and deployment artifacts
+**/bin
+**/obj
+**/Release
+
+# Temporary files
+*.tmp
+*.bak
+
+# Database files
+*.mdf
+*.ldf
+*.bak
