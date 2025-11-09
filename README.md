@@ -6,5 +6,5 @@
 
 Database: PostGreSQL
 
-Used some LLM help. Largely a quick tour of PostgreSQL syntax. Learned some useful XML, JSON, and Geography syntax. Review of usage of CTE, window functions, recursive functions. The JSON and Array functions and ability as awesome. Really missing that in MSSQL. 
+Used some LLM help. Largely a quick tour of PostgreSQL syntax. Learned some useful XML, JSON, and Geography syntax. Review of usage of CTE, window functions, recursive functions. The JSON and Array functions/ability is awesome. Really missing that in MSSQL. 
 
